@@ -1,7 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Genetic Streetlight
 
 This repository shows the source code used to generate an RShiny application Genetic Streetlight, which you can use at <http://whichgenesmatter.com>.
